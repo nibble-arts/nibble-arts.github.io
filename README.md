@@ -1,4 +1,4 @@
-# Loco-CAN
+# nibble-arts
+A space for creativity!
 
-[Hardware](https://github.com/nibble-arts/LOCO-CAN)
-[Software](https://github.com/nibble-arts/LOCO-CAN_Software)
+Looking for the Loco-CAN project? [It moved to a new place](https://loco-can.github.io).
